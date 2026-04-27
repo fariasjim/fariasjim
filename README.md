@@ -1,6 +1,6 @@
 <div align="center">
 
-# Farias
+# Farias Hamid Jim
 
 **Junior Executive (Computer Operations) · Dhaka, Bangladesh**
 
