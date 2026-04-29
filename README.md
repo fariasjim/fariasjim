@@ -1,8 +1,8 @@
 <div align="center">
 
-# Farias
+# Farias Hamid Jim
 
-**Junior Executive (Computer Operations) · Dhaka, Bangladesh**
+**Student (Computer Science) · Junior Executive (Computer Operations) · Dhaka, Bangladesh**
 
 [![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-Familiar-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
@@ -11,8 +11,6 @@
 </div>
 
 ---
-
-Computer Operations professional at **Udvash-Unmesh-Uttoron**. I build automation tools that make document workflows faster and cleaner.
 
 ## Projects
 
