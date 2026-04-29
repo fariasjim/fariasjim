@@ -24,9 +24,10 @@ Computer Operations professional at **Udvash-Unmesh-Uttoron**. I build automatio
 
 ## Stack
 
-`Arch Linux` `Hyprland` `Neovim` `VS Code` `Kitty` `Git` `Python` `Java`
+`Linux` `Git` `Python` `Java`
 
 ## Currently
 
 - Learning DSA via **NeetCode** and **Roadmap.sh**
+- Leaning Java Programming via project [Euclid](https://github.com/fariasjim/euclid)
 - Goal: Be a *fantastic* programmer
