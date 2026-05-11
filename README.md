@@ -5,7 +5,7 @@
 **Student (Computer Science) · Junior Executive (Computer Operations) · Dhaka, Bangladesh**
 
 [![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-Familiar-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/Java-Learning-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-btw-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 
 </div>
