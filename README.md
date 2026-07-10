@@ -2,7 +2,7 @@
 
 # Farias Hamid Jim
 
-**Student (Computer Science) · Junior Executive (Computer Operations) · Dhaka, Bangladesh**
+**Student (Computer Science) · Junior Backend Engineer · Dhaka, Bangladesh**
 
 ## Contact & Profiles
 
@@ -15,9 +15,9 @@
 
 ## Tech Stack
 
-[![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=fff)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-Learning-ED8B00?style=flat-square&logo=openjdk&logoColor=fff)](https://www.java.com/)
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-btw-1793D1?style=flat-square&logo=arch-linux&logoColor=fff)](https://archlinux.org/)
+[![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-Learning-ED8B00?logo=openjdk&logoColor=fff)](https://www.java.com/)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-btw-1793D1?logo=arch-linux&logoColor=fff)](https://archlinux.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://www.docker.com/)
 [![NeoVim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](https://neovim.io/)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=fff)](https://sqlite.org/)
