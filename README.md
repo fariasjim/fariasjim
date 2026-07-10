@@ -4,8 +4,6 @@
 
 **Student (Computer Science) · Junior Executive (Computer Operations) · Dhaka, Bangladesh**
 
----
-
 ## Contact & Profiles
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jimmy.hthc)
@@ -27,8 +25,6 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Learning-316192?logo=postgresql&logoColor=fff)](https://www.postgresql.org/)
 
 </div>
-
----
 
 ## Projects
 
