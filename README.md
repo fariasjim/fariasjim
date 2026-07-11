@@ -33,6 +33,10 @@
 | [WordBuddy](https://github.com/fariasjim/wordbuddy) | Python desktop app for automated DOCX processing |
 | [Euclid](https://github.com/fariasjim/euclid) *(Under Development)* | Java-based cross-platform geometric diagram generator |
 
+| Assessment | Description |
+|---|---|
+| [Backend_with_fastapi](https://github.com/fariasjim/backend_with_fastapi) | Basic fastapi RESTApi mainly for demonstrating skills |
+
 ## Currently Doing
 
 - Learning DSA via **LeetCode** and **Roadmap.sh**
