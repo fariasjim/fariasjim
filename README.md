@@ -31,7 +31,6 @@
 | Project | Description |
 |---|---|
 | [WordBuddy](https://github.com/fariasjim/wordbuddy) | Python desktop app for automated DOCX processing |
-| [Euclid](https://github.com/fariasjim/euclid) *(Under Development)* | Java-based cross-platform geometric diagram generator |
 | [Expense Tracker API](https://github.com/fariasjim/expense_tracker_api) (*Under Development*) | Simple Expense tracker CRUD API application |
 
 | Assessment | Description |
