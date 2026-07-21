@@ -40,5 +40,5 @@
 ## Currently Doing
 
 - Learning DSA via **LeetCode** and **Roadmap.sh**
-- Practicing Backend Programming via assessment [Basic_backend_with_fastapi](https://github.com/fariasjim/backend_with_fastapi)
+- Practicing Backend Programming via assessment [Expense Tracker API](https://github.com/fariasjim/expense_tracker_api)
 - **Goal**: **Be a *fantastic fullstack* programmer**
