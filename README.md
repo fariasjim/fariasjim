@@ -30,7 +30,7 @@
 
 | Project | Description |
 |---|---|
-| [WordBuddy](https://github.com/fariasjim/wordbuddy) | Python desktop app for automated DOCX processing |
+| [WordBuddy](https://github.com/fariasjim/word_buddy) | Python desktop app for automated DOCX processing |
 | [Expense Tracker API](https://github.com/fariasjim/expense_tracker_api) (*Under Development*) | Simple Expense tracker CRUD API application |
 
 | Assessment | Description |
